@@ -20,4 +20,6 @@ This tool should be used **only with proper authorization** for educational or n
 ## Installation  
 You need Python and the `scapy` library.
 Clone the repository:
+
+``` bash
 git clone https://github.com/ProgrammerSnehasish/PRODIGY_CS_01.git
